@@ -2,7 +2,7 @@
 
 A practical collection for students, developers and everyday life in Australia. Each entry explains what you can use, who it suits, its limits and where to find the official source. Global online resources are included where useful to learners in Australia; this is not a list of Australia-exclusive offers.
 
-Curated by [薅羊毛 — Australia deals and free resources](https://deals.jracademy.ai/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en), a JR Academy project. The website is primarily in Chinese and offers more Australian resources and deals, with public browsing available before registration.
+Curated by 薅羊毛, a JR Academy deals and free-resource project. Open the [Australian free-resource and deals directory (in Chinese)](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=readme_intro) for participation steps, eligibility notes and related resources. Public guides can be read before registration.
 
 [中文版](https://github.com/JR-Academy-AI/awesome-australia-free-resources-zh) · [Contribute a resource](CONTRIBUTING.md) · [Report an outdated resource](https://github.com/JR-Academy-AI/awesome-australia-free-resources/issues/new?template=broken-resource.yml)
 
@@ -46,6 +46,7 @@ Apply for student developer benefits and choose tools for your projects.
 - **Conditions and limits:** Student verification is required. Partner offers have separate terms, quotas and expiry dates; they are not all permanently free.
 - **Official source:** [GitHub Student Developer Pack](https://education.github.com/pack)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [GitHub student verification steps and partner limits](https://deals.jracademy.ai/free-resources/example-github-pack/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_github-student) (independently written by the maintainer, not the provider’s official page)
 
 <a id="jetbrains-student"></a>
 
@@ -57,6 +58,7 @@ Eligible students can apply for IDE licences for educational use.
 - **Conditions and limits:** Student verification applies. Educational licences are for non-commercial educational use. Do not assume paid courses or AI services are included.
 - **Official source:** [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [JetBrains educational eligibility and usage limits](https://deals.jracademy.ai/free-resources/example-jetbrains-education/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_jetbrains-student) (independently written by the maintainer, not the provider’s official page)
 
 <a id="azure-student"></a>
 
@@ -68,6 +70,7 @@ Eligible university students can apply for a student cloud account to practise d
 - **Conditions and limits:** This is a conditional, time-limited cloud allowance, not unlimited free hosting. Check eligibility and service quotas before applying.
 - **Official source:** [Azure for Students](https://azure.microsoft.com/en-au/free/students)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [Azure student credit steps and eligibility](https://deals.jracademy.ai/free-resources/example-azure-student/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_azure-student) (independently written by the maintainer, not the provider’s official page)
 
 <a id="aws-educate"></a>
 
@@ -116,6 +119,7 @@ Learn programming through exercises and projects, completing your own work again
 - **Conditions and limits:** You must complete the work yourself. Progress or certificates are not a degree, professional licence or employment guarantee.
 - **Official source:** [freeCodeCamp](https://www.freecodecamp.org/learn)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [freeCodeCamp courses, exercises and project requirements](https://deals.jracademy.ai/free-resources/example-freecodecamp/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_freecodecamp) (independently written by the maintainer, not the provider’s official page)
 
 <a id="cs50"></a>
 
@@ -127,6 +131,7 @@ Access computer science course materials and practise with problem sets and a fi
 - **Conditions and limits:** The open course is free to study. Paid verification, credit and other course options are separate; this is not enrolment at Harvard.
 - **Official source:** [Harvard CS50x](https://cs50.harvard.edu/x/)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [CS50 free study and certificate requirements](https://deals.jracademy.ai/free-resources/example-cs50-certificate/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_cs50) (independently written by the maintainer, not the provider’s official page)
 
 <a id="mit-ocw"></a>
 
@@ -334,6 +339,7 @@ Visit the general galleries in Sydney for free and choose natural history and cu
 - **Conditions and limits:** General admission is free; major exhibitions may charge. Transport, parking and food are not included.
 - **Official source:** [Australian Museum](https://australian.museum/visit/)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [Australian Museum free entry and visitor notes](https://deals.jracademy.ai/free-resources/example-australian-museum/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_australian-museum) (independently written by the maintainer, not the provider’s official page)
 
 <a id="queensland-museum"></a>
 
@@ -345,6 +351,7 @@ Plan a free general-admission visit to the museum galleries in Brisbane.
 - **Conditions and limits:** SparkLab, some exhibitions and events charge admission. Check opening arrangements; not every experience is free.
 - **Official source:** [Queensland Museum Kurilpa](https://www.museum.qld.gov.au/kurilpa/plan-your-visit/hours-and-admission)
 - **Checked:** 2026-10-26
+- **Practical guide in Chinese:** [Queensland Museum free entry and paid extras](https://deals.jracademy.ai/free-resources/example-queensland-museum/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=resource_queensland-museum) (independently written by the maintainer, not the provider’s official page)
 
 <a id="ngv"></a>
 
@@ -444,6 +451,11 @@ Explore general galleries in Canberra for free to learn about Australian history
 - **Conditions and limits:** Free general admission does not include all special exhibitions, programs, food or parking. Check current prices and access for your chosen activity.
 - **Official source:** [National Museum of Australia](https://www.nma.gov.au/visit)
 - **Checked:** 2026-10-26
+
+## Continue with a practical guide
+
+Open the [Australian free-resource and deals directory on 薅羊毛 (in Chinese)](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=readme_footer) to read full eligibility notes and participation steps before visiting the official provider. The directory includes pre-written public guides; confirm current prices, eligibility and availability with the provider. Registration is not required to read these public guides.
+
 
 ## Selection and maintenance
 

@@ -1,10 +1,10 @@
-# Free Resources for Life, Study & Tech in Australia
+# 薅羊毛 (Haoyangmao) — Free Resources for Life, Study & Tech in Australia
 
 A practical collection for students, developers and everyday life in Australia. Each entry explains what you can use, who it suits, its limits and where to find the official source. Global online resources are included where useful to learners in Australia; this is not a list of Australia-exclusive offers.
 
 Curated by 薅羊毛, a JR Academy deals and free-resource project. Open the [Australian free-resource and deals directory (in Chinese)](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=readme_intro) for participation steps, eligibility notes and related resources. Public guides can be read before registration.
 
-[中文版](https://github.com/JR-Academy-AI/awesome-australia-free-resources-zh) · [Contribute a resource](CONTRIBUTING.md) · [Report an outdated resource](https://github.com/JR-Academy-AI/awesome-australia-free-resources/issues/new?template=broken-resource.yml)
+[中文版](https://github.com/JR-Academy-AI/haoyangmao-australia-free-resources-zh) · [Contribute a resource](CONTRIBUTING.md) · [Report an outdated resource](https://github.com/JR-Academy-AI/haoyangmao-australia-free-resources/issues/new?template=broken-resource.yml)
 
 The collection contains **35 resources**. Last editorial check: **26 October 2026 (Brisbane, Australia)**. A check means reviewing public official information; it does not mean completing registration, eligibility approval, courses or an onsite visit, or continuous monitoring afterwards. The complete entries are readable below without visiting our website.
 

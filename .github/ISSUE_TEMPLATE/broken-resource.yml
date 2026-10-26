@@ -1,0 +1,24 @@
+name: Report outdated information
+description: Report a broken link or a change in eligibility or costs.
+body:
+  - type: markdown
+    attributes:
+      value: Do not include personal information, credentials or private evidence.
+  - type: textarea
+    id: resource
+    attributes:
+      label: Resource name / ID
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Official source URL
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details, limits and date checked
+    validations:
+      required: true

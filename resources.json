@@ -1,0 +1,206 @@
+{
+  "language": "en",
+  "editorialCheckedAt": "2026-10-26",
+  "resources": [
+    {
+      "id": "github-student",
+      "category": "student",
+      "name": "GitHub Student Developer Pack",
+      "url": "https://education.github.com/pack",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Apply for student developer benefits and choose tools for your projects.",
+      "limits": "Student verification is required. Partner offers have separate terms, quotas and expiry dates; they are not all permanently free."
+    },
+    {
+      "id": "jetbrains-student",
+      "category": "student",
+      "name": "JetBrains Student Pack",
+      "url": "https://www.jetbrains.com/academy/student-pack/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Eligible students can apply for IDE licences for educational use.",
+      "limits": "Student verification applies. Educational licences are for non-commercial educational use. Do not assume paid courses or AI services are included."
+    },
+    {
+      "id": "azure-student",
+      "category": "student",
+      "name": "Azure for Students",
+      "url": "https://azure.microsoft.com/en-au/free/students",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Eligible university students can apply for a student cloud account to practise deploying projects.",
+      "limits": "This is a conditional, time-limited cloud allowance, not unlimited free hosting. Check eligibility and service quotas before applying."
+    },
+    {
+      "id": "aws-educate",
+      "category": "student",
+      "name": "AWS Educate",
+      "url": "https://aws.amazon.com/education/awseducate/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Explore cloud computing through free self-paced courses and hands-on labs.",
+      "limits": "Registration and provider eligibility conditions apply. Educate labs are separate from a regular paid AWS account and do not make all AWS services free."
+    },
+    {
+      "id": "microsoft-learn",
+      "category": "learn",
+      "name": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Study Microsoft technologies in modules before deciding whether to pursue a certification.",
+      "limits": "Self-paced modules can be read for free. Certification exams, instructor-led training and your own cloud resources may cost money."
+    },
+    {
+      "id": "mdn",
+      "category": "learn",
+      "name": "MDN Learn Web Development",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Learn HTML, CSS and JavaScript, with reference documentation alongside the lessons.",
+      "limits": "This entry covers the public documentation and tutorials, not other subscription products."
+    },
+    {
+      "id": "freecodecamp",
+      "category": "learn",
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/learn",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Learn programming through exercises and projects, completing your own work against curriculum requirements.",
+      "limits": "You must complete the work yourself. Progress or certificates are not a degree, professional licence or employment guarantee."
+    },
+    {
+      "id": "cs50",
+      "category": "learn",
+      "name": "Harvard CS50x",
+      "url": "https://cs50.harvard.edu/x/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Access computer science course materials and practise with problem sets and a final project.",
+      "limits": "The open course is free to study. Paid verification, credit and other course options are separate; this is not enrolment at Harvard."
+    },
+    {
+      "id": "mit-ocw",
+      "category": "learn",
+      "name": "MIT OpenCourseWare",
+      "url": "https://ocw.mit.edu/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Read MIT open course materials and choose lectures, assignments or videos available for each course.",
+      "limits": "Available materials vary by course. Open materials do not confer MIT enrolment, credit or a degree."
+    },
+    {
+      "id": "python-tutorial",
+      "category": "learn",
+      "name": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Practise Python syntax, data structures, modules and exceptions with the official tutorial.",
+      "limits": "Best suited to readers with basic programming knowledge. Match the documentation version to your installed Python version."
+    },
+    {
+      "id": "pro-git",
+      "category": "learn",
+      "name": "Pro Git",
+      "url": "https://git-scm.com/book/en/v2",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "Read the Git book online to understand commits, branches and collaboration.",
+      "limits": "The online book is free; printed editions and third-party services may cost money."
+    },
+    {
+      "id": "study-australia",
+      "category": "life",
+      "name": "Study Australia — Living and education costs",
+      "url": "https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Use official living and education cost information as a starting point for an Australian study budget.",
+      "limits": "The information is free, not living expenses or tuition. It does not guarantee a personal budget or visa requirements."
+    },
+    {
+      "id": "fair-work",
+      "category": "life",
+      "name": "Fair Work Ombudsman — Visa holders and migrants",
+      "url": "https://www.fairwork.gov.au/find-help-for/visa-holders-migrants",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Find workplace rights information and official help routes for visa holders and migrants.",
+      "limits": "This is an information source, not individual legal advice. Workplace rights and visa work conditions need separate checks."
+    },
+    {
+      "id": "scamwatch",
+      "category": "life",
+      "name": "Scamwatch",
+      "url": "https://www.scamwatch.gov.au/",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Learn about common scams, warning signs and official reporting routes.",
+      "limits": "Information and reporting do not guarantee recovery of money. Do not put personal details or transaction evidence in public issues."
+    },
+    {
+      "id": "accc-consumers",
+      "category": "life",
+      "name": "ACCC — Consumers",
+      "url": "https://www.accc.gov.au/consumers",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Find official explanations of consumer rights, pricing claims and problems with goods or services.",
+      "limits": "The public guidance is free. It does not guarantee refunds; check the appropriate agency and process for an individual dispute."
+    },
+    {
+      "id": "slv",
+      "category": "library",
+      "name": "State Library Victoria — Free Access",
+      "url": "https://www.slv.vic.gov.au/membership/",
+      "region": "Victoria",
+      "checkedAt": "2026-10-26",
+      "description": "Victorian residents can explore the free digital library card and electronic books, journals and newspapers.",
+      "limits": "Residency, verification and database licence restrictions apply. This entry covers Free Access, not paid memberships or chargeable services."
+    },
+    {
+      "id": "slq",
+      "category": "library",
+      "name": "State Library of Queensland — Membership",
+      "url": "https://www.slq.qld.gov.au/services/membership",
+      "region": "Queensland",
+      "checkedAt": "2026-10-26",
+      "description": "Explore free membership, ebooks, newspapers and online courses; Queensland residents can check remote-access eligibility.",
+      "limits": "Remote electronic resources have residency and licence restrictions; some are onsite only. Check equipment, materials and other service charges separately."
+    },
+    {
+      "id": "australian-museum",
+      "category": "visit",
+      "name": "Australian Museum",
+      "url": "https://australian.museum/visit/",
+      "region": "Sydney, NSW",
+      "checkedAt": "2026-10-26",
+      "description": "Visit the general galleries in Sydney for free and choose natural history and cultural collections to explore.",
+      "limits": "General admission is free; major exhibitions may charge. Transport, parking and food are not included."
+    },
+    {
+      "id": "queensland-museum",
+      "category": "visit",
+      "name": "Queensland Museum Kurilpa",
+      "url": "https://www.museum.qld.gov.au/kurilpa/plan-your-visit/hours-and-admission",
+      "region": "Brisbane, Queensland",
+      "checkedAt": "2026-10-26",
+      "description": "Plan a free general-admission visit to the museum galleries in Brisbane.",
+      "limits": "SparkLab, some exhibitions and events charge admission. Check opening arrangements; not every experience is free."
+    },
+    {
+      "id": "ngv",
+      "category": "visit",
+      "name": "National Gallery of Victoria",
+      "url": "https://www.ngv.vic.gov.au/plan-your-visit/",
+      "region": "Melbourne, Victoria",
+      "checkedAt": "2026-10-26",
+      "description": "Visit general collection displays at NGV International or NGV Australia in Melbourne for free.",
+      "limits": "Special exhibitions may charge and some galleries may close temporarily. Check current exhibitions and access before visiting."
+    }
+  ]
+}

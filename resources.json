@@ -201,6 +201,156 @@
       "checkedAt": "2026-10-26",
       "description": "Visit general collection displays at NGV International or NGV Australia in Melbourne for free.",
       "limits": "Special exhibitions may charge and some galleries may close temporarily. Check current exhibitions and access before visiting."
+    },
+    {
+      "id": "sbs-english",
+      "category": "english",
+      "name": "SBS Learn English",
+      "url": "https://www.sbs.com.au/language/english/en/learn-english",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Practise English with free podcasts, videos and exercises based on everyday Australian situations, choosing a series at your level.",
+      "limits": "These are self-study materials, not exam preparation or a score guarantee. Difficulty varies; try an Easy series first."
+    },
+    {
+      "id": "amep",
+      "category": "english",
+      "name": "Adult Migrant English Program (AMEP)",
+      "url": "https://immi.homeaffairs.gov.au/settling-in-australia/amep/about-the-program",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Eligible migrants and humanitarian entrants can access free English tuition and find a local provider through this government program.",
+      "limits": "This is not a universal benefit for all international students or visa holders. Confirm eligibility, arrangements and available support with the official program and provider."
+    },
+    {
+      "id": "be-connected",
+      "category": "digital",
+      "name": "Be Connected",
+      "url": "https://beconnected.esafety.gov.au/",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Use free short courses on phones, computers, online services and safety, including approachable lessons to share with family.",
+      "limits": "Mainly introductory digital skills, not professional technical support. Choose lessons for your device and check registration or event requirements."
+    },
+    {
+      "id": "esafety",
+      "category": "digital",
+      "name": "eSafety Commissioner — Online safety",
+      "url": "https://www.esafety.gov.au/",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Read public guidance on online safety, privacy, platform settings and online harms, with sections for adults, parents and young people.",
+      "limits": "This entry covers free public information. Reporting schemes have their own scope and conditions and do not guarantee an individual outcome. Keep private material off GitHub."
+    },
+    {
+      "id": "cyber-security",
+      "category": "digital",
+      "name": "Cyber.gov.au — Personal cyber security",
+      "url": "https://www.cyber.gov.au/protect-yourself-and-your-family-online",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Use official personal cyber security resources to review protection for your devices, accounts and personal information.",
+      "limits": "The public guides are free to read. Follow instructions appropriate to your devices and services; they do not guarantee device repair or account recovery."
+    },
+    {
+      "id": "slnsw",
+      "category": "library",
+      "name": "State Library of New South Wales — Library card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-state-library-card",
+      "region": "New South Wales",
+      "checkedAt": "2026-10-26",
+      "description": "Apply for a free State Library NSW card; NSW residents can check access to ebooks, databases and journals from home.",
+      "limits": "Home eresource access is restricted to NSW residents and may require a valid NSW address. Other applicants must follow onsite collection and access rules. Check printing and other charges separately."
+    },
+    {
+      "id": "sydney-library",
+      "category": "library",
+      "name": "City of Sydney Library",
+      "url": "https://www.cityofsydney.nsw.gov.au/lists-maps-inventories/fees-charges-joining-using-library",
+      "region": "Sydney, NSW",
+      "checkedAt": "2026-10-26",
+      "description": "NSW residents can join for free; interstate and international visitors can check free monthly membership. Explore borrowing and onsite internet access.",
+      "limits": "Visitor borrowing limits apply. Printing, replacement cards, some computer use and fabrication services can carry fees; free membership does not make every service free."
+    },
+    {
+      "id": "nga",
+      "category": "visit",
+      "name": "National Gallery of Australia",
+      "url": "https://nga.gov.au/visit/",
+      "region": "Canberra, ACT",
+      "checkedAt": "2026-10-26",
+      "description": "Visit collection displays and accessible gardens in Canberra for free, checking gallery and outdoor artwork access before setting out.",
+      "limits": "Selected major exhibitions require paid tickets and parking may cost money. Some gardens or works can close for maintenance."
+    },
+    {
+      "id": "agsa",
+      "category": "visit",
+      "name": "Art Gallery of South Australia",
+      "url": "https://www.agsa.sa.gov.au/visit/",
+      "region": "Adelaide, South Australia",
+      "checkedAt": "2026-10-26",
+      "description": "Visit general collection displays in Adelaide for free and look for a free guided tour during your visit.",
+      "limits": "Some exhibitions charge admission. Free tours depend on volunteer availability and the day’s program. Transport and food are separate costs."
+    },
+    {
+      "id": "qagoma",
+      "category": "visit",
+      "name": "Queensland Art Gallery | Gallery of Modern Art",
+      "url": "https://www.qagoma.qld.gov.au/visit/",
+      "region": "Brisbane, Queensland",
+      "checkedAt": "2026-10-26",
+      "description": "Explore general displays at QAG and GOMA and the Children’s Art Centre in Brisbane for free, choosing exhibitions that interest you.",
+      "limits": "Some exhibitions, special events and film sessions charge admission. Check the individual listing rather than assuming the full program is free."
+    },
+    {
+      "id": "acmi",
+      "category": "visit",
+      "name": "ACMI — The Story of the Moving Image",
+      "url": "https://www.acmi.net.au/whats-on/story-of-the-moving-image-exhibition/",
+      "region": "Melbourne, Victoria",
+      "checkedAt": "2026-10-26",
+      "description": "Explore a free ongoing exhibition about film, television and videogames in Melbourne, including interactive experiences.",
+      "limits": "Free access applies to this exhibition. Check prices for other exhibitions, films and events separately; interactive facilities depend on onsite availability."
+    },
+    {
+      "id": "nsw-parliament",
+      "category": "visit",
+      "name": "Parliament of NSW — Public tours",
+      "url": "https://www.parliament.nsw.gov.au/visit-parliament/parliament-tours",
+      "region": "Sydney, NSW",
+      "checkedAt": "2026-10-26",
+      "description": "Join a free public tour in Sydney to learn about the parliamentary buildings, history and work, choosing a session from the official schedule.",
+      "limits": "Advance booking is recommended. Open days, public holidays and parliamentary business affect sessions; chamber and historic-room access is subject to availability."
+    },
+    {
+      "id": "tas-parliament",
+      "category": "visit",
+      "name": "Parliament of Tasmania — Tours",
+      "url": "https://parliament.tas.gov.au/visit-and-learn/tours",
+      "region": "Hobart, Tasmania",
+      "checkedAt": "2026-10-26",
+      "description": "Join a free guided tour in Hobart to learn about Parliament House and parliamentary work, checking the sitting calendar first.",
+      "limits": "Access is through a guided tour, normally on non-sitting weekdays. Booking is encouraged and mandatory for groups of more than 12."
+    },
+    {
+      "id": "war-memorial",
+      "category": "visit",
+      "name": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/visit",
+      "region": "Canberra, ACT",
+      "checkedAt": "2026-10-26",
+      "description": "Visit memorial spaces and historical galleries in Canberra for free, using the visitor map to plan your route.",
+      "limits": "The current visitor page says general entry does not require a ticket. Check school, group and special-program arrangements separately; some historical content may be confronting."
+    },
+    {
+      "id": "national-museum",
+      "category": "visit",
+      "name": "National Museum of Australia",
+      "url": "https://www.nma.gov.au/visit",
+      "region": "Canberra, ACT",
+      "checkedAt": "2026-10-26",
+      "description": "Explore general galleries in Canberra for free to learn about Australian history and everyday life through museum collections.",
+      "limits": "Free general admission does not include all special exhibitions, programs, food or parking. Check current prices and access for your chosen activity."
     }
   ]
 }

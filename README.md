@@ -8,6 +8,21 @@ Curated by 薅羊毛, a JR Academy deals and free-resource project. Open the [Au
 
 The collection contains **35 resources**. Last editorial check: **26 October 2026 (Brisbane, Australia)**. A check means reviewing public official information; it does not mean completing registration, eligibility approval, courses or an onsite visit, or continuous monitoring afterwards. The complete entries are readable below without visiting our website.
 
+
+
+
+<!-- local-growth:start -->
+## Complete plans and reusable tools
+
+[Student toolkit](guides/student-toolkit.md) · [Free half-day plans](guides/free-weekends.md) · [Runnable calculation module](tools/README.md) · [Student checklist](checklists/student-checklist.md)
+
+The guides and tools are public. New website pages are being released; existing public detail links remain available.
+
+
+![薅羊毛 / Haoyangmao — 澳洲实用资源](share/social-preview.png)
+
+<!-- local-growth:end -->
+
 ## Start with what you need
 
 | What would you like to do? | Start here | First step |
@@ -469,4 +484,4 @@ Report an outdated entry through an issue or submit a correction with an officia
 
 [resources.json](resources.json) contains the same 35 entries as structured data for filtering and reuse. It is a directory, not live availability, an official API or an eligibility service. The Chinese and English repositories share resource IDs; factual changes and dates need review in both repositories.
 
-Original descriptions and directory data are licensed under [CC BY 4.0](LICENSE.md). Credit JR Academy and identify changes. Linked websites, trademarks, third-party courses, images and documents retain their own rights; this licence does not grant rights to republish them. No third-party article bodies, brand images or App source code are included.
+Original descriptions and directory data are licensed under [CC BY 4.0](LICENSE.md). Credit JR Academy and identify changes. Linked websites, trademarks, third-party courses, images and documents retain their own rights; this licence does not grant rights to republish them. No third-party article bodies, unauthorised images or App source code are included. Sharing artwork uses our original brand assets; brand rights are reserved.

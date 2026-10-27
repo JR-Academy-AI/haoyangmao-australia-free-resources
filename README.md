@@ -8,16 +8,12 @@ Curated by 薅羊毛, a JR Academy deals and free-resource project. Open the [Au
 
 The collection contains **35 resources**. Last editorial check: **26 October 2026 (Brisbane, Australia)**. A check means reviewing public official information; it does not mean completing registration, eligibility approval, courses or an onsite visit, or continuous monitoring afterwards. The complete entries are readable below without visiting our website.
 
-
-
-
 <!-- local-growth:start -->
 ## Complete plans and reusable tools
 
 [Student toolkit](guides/student-toolkit.md) · [Free half-day plans](guides/free-weekends.md) · [Runnable calculation module](tools/README.md) · [Student checklist](checklists/student-checklist.md)
 
-The guides and tools are public. New website pages are being released; existing public detail links remain available.
-
+Read the [full student-toolkit guide in English](https://deals.jracademy.ai/en/free-resources/student-toolkit/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=student_toolkit_intro). Also available: [weekend plans in Chinese](https://deals.jracademy.ai/free-resources/free-weekends/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=weekends_intro) and the [interactive calculator in Chinese](https://deals.jracademy.ai/tools/membership-calculator/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=calculator_intro). No registration is needed for these public guides.
 
 ![薅羊毛 / Haoyangmao — 澳洲实用资源](share/social-preview.png)
 
@@ -470,7 +466,6 @@ Explore general galleries in Canberra for free to learn about Australian history
 ## Continue with a practical guide
 
 Open the [Australian free-resource and deals directory on 薅羊毛 (in Chinese)](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_en&utm_content=readme_footer) to read full eligibility notes and participation steps before visiting the official provider. The directory includes pre-written public guides; confirm current prices, eligibility and availability with the provider. Registration is not required to read these public guides.
-
 
 ## Selection and maintenance
 
